@@ -1,0 +1,8 @@
+{
+  "name": "hks-holding-store",
+  "version": "1.0.0",
+  "description": "HKS Holding — spices, dry fruits & gift boxes storefront with a small Node.js API",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
